@@ -58,6 +58,15 @@ Pull requests waiting for approval:
 
 ### Example renders
 
+Lanterns demonstrating advanced importance sampling with single scattering, rendered at 64 sample/pixel:
+![Lanterns, 64 samples/pixel](lanterns%20-%20equiangular%20sampling%20-%2064s.png)
+
+Cloud shaped as stanford bunny, multiple scattering, 128 sample/pixel:
+![Bunny cloud, 128 samples/pixel, diffuse EDF](bunny%20-%20128s%20-%20isotropic.png)
+
+The similar bunny with less dense media, lighted using cone EDF, 128 sample/pixel:
+![Bunny cloud, 128 samples/pixel, cone EDF](bunny%20-%20128s%20-%20cone.png)
+
 ### References
 
 1. 
