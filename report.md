@@ -66,9 +66,6 @@ Pull requests waiting for approval:
 #### Double scattering and different phase functions. (left: Henyey-Greenstein phase function with g = 0.8, right: isotropic phase function)
 <img src="a.png" width="300" height="300" /> <img src="b.png" width="300" height="300" />
 
-#### Double scattering, isotropic phase function
-![Bunny cloud, 128 samples/pixel, cone EDF](b.png)
-
 ### Future work
 
 The work on volume renderer have only begun with my GSoC project, and there are still a plenty of opportunities for making volume rendering faster, more beautiful and more convenient. Here I would like to outline the possible future of the project as it goes beyond the scope of GSoC'17.
