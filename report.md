@@ -61,10 +61,10 @@ Pull requests waiting for approval:
 ![Lanterns, 64 samples/pixel](lanterns%20-%20equiangular%20sampling%20-%2064s.png)
 
 #### Cloud shaped as stanford bunny, multiple scattering, 128 sample/pixel (right - lighted with with cone EDF):
-<img src="bunny%20-%20128s%20-%20isotropic.png" width="300" height="300" /> <img src="bunny%20-%20128s%20-%20cone.png" width="300" height="300" />
+<img src="bunny%20-%20128s%20-%20isotropic.png" width="400" height="400" /> <img src="bunny%20-%20128s%20-%20cone.png" width="400" height="400" />
 
 #### Double scattering and different phase functions. (left: Henyey-Greenstein phase function with g = 0.8, right: isotropic phase function)
-<img src="a.png" width="300" height="300" /> <img src="b.png" width="300" height="300" />
+<img src="a.png" width="400" height="400" /> <img src="b.png" width="400" height="400" />
 
 ### Future work
 
