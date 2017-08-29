@@ -60,11 +60,14 @@ Pull requests waiting for approval:
 #### Lanterns demonstrating advanced importance sampling with single scattering, rendered at 64 sample/pixel:
 ![Lanterns, 64 samples/pixel](lanterns%20-%20equiangular%20sampling%20-%2064s.png)
 
-#### Cloud shaped as stanford bunny, multiple scattering, 128 sample/pixel:
-![Bunny cloud, 128 samples/pixel, diffuse EDF](bunny%20-%20128s%20-%20isotropic.png)
+#### Cloud shaped as stanford bunny, multiple scattering, 128 sample/pixel (right - lighted with with cone EDF):
+<img src="bunny%20-%20128s%20-%20isotropic.png" width="300" height="300" /> <img src="bunny%20-%20128s%20-%20cone.png" width="300" height="300" />
 
-#### The similar bunny with less dense media, lighted using cone EDF, 128 sample/pixel:
-![Bunny cloud, 128 samples/pixel, cone EDF](bunny%20-%20128s%20-%20cone.png)
+#### Double scattering and different phase functions. (left: Henyey-Greenstein phase function with g = 0.8, right: isotropic phase function)
+<img src="a.png" width="300" height="300" /> <img src="b.png" width="300" height="300" />
+
+#### Double scattering, isotropic phase function
+![Bunny cloud, 128 samples/pixel, cone EDF](b.png)
 
 ### Future work
 
